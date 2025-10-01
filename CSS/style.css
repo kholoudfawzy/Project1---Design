@@ -272,7 +272,7 @@ body {
 }
 
 .welcome-item:hover .welcome-item-title {
-    color: #ffffff;
+    color: rgba(0, 0, 0, 0.3);
 }
 
 .welcome-item:hover .welcome-read-more ,.welcome-item:hover .welcome-icons{
@@ -939,4 +939,5 @@ body {
 
 .footer-icons:hover {
     background-color: #E6B7A9;
+
 }
